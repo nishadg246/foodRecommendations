@@ -1,0 +1,1 @@
+{"categoryCounts": {"mexican": 4.0, "chinese": 4.0, "vegetarian": 2.0, "indpak": 2.0, "pizza": 2.0, "newamerican": 5.0, "hotdogs": 2.0}, "previousRestaurants": ["Everyday Noodles", "Butcher and the Rye", "La Palapa", "Los Cabos Mexican Restaurant", "Meat & Potatoes", "El Burro"]}

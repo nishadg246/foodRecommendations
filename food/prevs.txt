@@ -1,0 +1,1 @@
+[["Everyday Noodles","1","Chinese"],["Butcher and the Rye","1","American (New)"],["La Palapa","1","Mexican"],["Los Cabos Mexican Restaurant","-1","Mexican"],["Meat & Potatoes","1","American (New)"],["El Burro","1","Mexican"]]

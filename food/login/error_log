@@ -1,0 +1,38 @@
+[08-Jan-2015 12:05:47 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/thehowt3/public_html/nishadg/hitmeup/login.php on line 24
+[08-Jan-2015 12:06:01 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/thehowt3/public_html/nishadg/hitmeup/login.php on line 24
+[08-Jan-2015 12:09:12 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/thehowt3/public_html/nishadg/hitmeup/login.php on line 23
+[08-Jan-2015 12:09:20 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/thehowt3/public_html/nishadg/hitmeup/login.php on line 23
+[08-Jan-2015 12:09:27 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/thehowt3/public_html/nishadg/hitmeup/login.php on line 23
+[08-Jan-2015 12:10:31 America/Denver] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home2/thehowt3/public_html/nishadg/hitmeup/login.php on line 4
+[08-Jan-2015 12:10:57 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/thehowt3/public_html/nishadg/hitmeup/login.php on line 26
+[08-Jan-2015 12:11:08 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/thehowt3/public_html/nishadg/hitmeup/login.php on line 26
+[08-Jan-2015 12:11:56 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/thehowt3/public_html/nishadg/hitmeup/login.php on line 26
+[08-Jan-2015 12:12:39 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/thehowt3/public_html/nishadg/hitmeup/login.php on line 26
+[08-Jan-2015 12:14:14 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/thehowt3/public_html/nishadg/hitmeup/login.php on line 26
+[08-Jan-2015 12:14:40 America/Denver] PHP Fatal error:  Call to undefined function session_is_registered() in /home2/thehowt3/public_html/nishadg/hitmeup/login_success.php on line 3
+[08-Jan-2015 12:15:15 America/Denver] PHP Fatal error:  Call to undefined function session_is_registered() in /home2/thehowt3/public_html/nishadg/hitmeup/login_success.php on line 3
+[08-Jan-2015 12:27:41 America/Denver] PHP Parse error:  syntax error, unexpected '}' in /home2/thehowt3/public_html/nishadg/hitmeup/login.php on line 9
+[08-Jan-2015 12:29:37 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/thehowt3/public_html/nishadg/hitmeup/login.php on line 29
+[08-Jan-2015 12:29:47 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/thehowt3/public_html/nishadg/hitmeup/login.php on line 29
+[08-Jan-2015 12:38:16 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/thehowt3/public_html/nishadg/hitmeup/login.php on line 9
+[08-Jan-2015 12:38:24 America/Denver] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home2/thehowt3/public_html/nishadg/hitmeup/login.php on line 9
+[08-Jan-2015 12:41:31 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/thehowt3/public_html/nishadg/hitmeup/login.php on line 24
+[08-Jan-2015 12:41:37 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/thehowt3/public_html/nishadg/hitmeup/login.php on line 24
+[08-Jan-2015 12:41:41 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/thehowt3/public_html/nishadg/hitmeup/login.php on line 24
+[08-Jan-2015 12:41:47 America/Denver] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, boolean given in /home2/thehowt3/public_html/nishadg/hitmeup/login.php on line 24
+[08-Jan-2015 12:50:44 America/Denver] PHP Fatal error:  Call to undefined function session_is_registered() in /home2/thehowt3/public_html/nishadg/hitmeup/profile.php on line 3
+[08-Jan-2015 12:52:19 America/Denver] PHP Fatal error:  Call to undefined function session_is_registered() in /home2/thehowt3/public_html/nishadg/hitmeup/profile.php on line 3
+[08-Jan-2015 12:52:29 America/Denver] PHP Fatal error:  Call to undefined function session_is_registered() in /home2/thehowt3/public_html/nishadg/hitmeup/profile.php on line 3
+[08-Jan-2015 12:52:47 America/Denver] PHP Fatal error:  Call to undefined function session_is_registered() in /home2/thehowt3/public_html/nishadg/hitmeup/profile.php on line 3
+[08-Jan-2015 12:53:03 America/Denver] PHP Fatal error:  Call to undefined function session_is_registered() in /home2/thehowt3/public_html/nishadg/hitmeup/profile.php on line 3
+[08-Jan-2015 15:12:02 America/Denver] PHP Fatal error:  Call to undefined function session_is_registered() in /home2/thehowt3/public_html/nishadg/hitmeup/profile.php on line 3
+[08-Jan-2015 15:15:52 America/Denver] PHP Fatal error:  Call to undefined function session_register() in /home2/thehowt3/public_html/nishadg/hitmeup/login.php on line 26
+[08-Jan-2015 15:16:08 America/Denver] PHP Fatal error:  Call to undefined function session_register() in /home2/thehowt3/public_html/nishadg/hitmeup/login.php on line 26
+[08-Jan-2015 15:17:05 America/Denver] PHP Fatal error:  Call to undefined function session_is_registered() in /home2/thehowt3/public_html/nishadg/hitmeup/profile.php on line 3
+[09-Jan-2015 13:13:39 America/Denver] PHP Notice:  Undefined index: error in /home2/thehowt3/public_html/nishadg/hitmeup/index.php on line 31
+[09-Jan-2015 13:17:10 America/Denver] PHP Notice:  Undefined index: error in /home2/thehowt3/public_html/nishadg/hitmeup/index.php on line 31
+[09-Jan-2015 13:17:13 America/Denver] PHP Notice:  Undefined index: error in /home2/thehowt3/public_html/nishadg/hitmeup/index.php on line 31
+[09-Jan-2015 13:17:22 America/Denver] PHP Notice:  Undefined index: error in /home2/thehowt3/public_html/nishadg/hitmeup/index.php on line 31
+[09-Jan-2015 13:18:33 America/Denver] PHP Notice:  Undefined index: error in /home2/thehowt3/public_html/nishadg/hitmeup/index.php on line 31
+[09-Jan-2015 13:19:34 America/Denver] PHP Notice:  Undefined index: error in /home2/thehowt3/public_html/nishadg/hitmeup/index.php on line 31
+[09-Jan-2015 13:19:34 America/Denver] PHP Notice:  Undefined index: error in /home2/thehowt3/public_html/nishadg/hitmeup/index.php on line 31
